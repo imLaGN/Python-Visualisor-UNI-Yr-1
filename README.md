@@ -10,9 +10,11 @@ The project uses the following libraries:
 (tested with the latest versions available at the time of upload)
  - Numpy (1.24.1)
  - PyAudio (0.2.13)
+
 All other libraries used should already be included in Python3:
  - time
  - wave
  - msvcrt
+
 Libraries that I am unaware if available or if they will be available:
  - opc
